@@ -1,0 +1,3 @@
+com\hou\dao\UserMapper.class
+com\hou\pogo\User.class
+com\hou\utils\MybatisUtils.class
